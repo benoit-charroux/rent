@@ -6,7 +6,7 @@ https://github.com/charroux/rent/blob/main/MyService/Dockerfile
 
 Créer imaage Docker : 
 
-docker build -t votreimage .
+docker build -t votre image .
 
 docker run -p 8080:8080 votreimage
 
